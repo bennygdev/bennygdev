@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**bennygoh1/bennygoh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My name is Benny Goh and I am currently studying at the Insitute of Technical Education.
 # About this github portfolio
 I am working on many projects, so stay tuned for those uploads :)
