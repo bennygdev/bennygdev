@@ -6,8 +6,7 @@ I am currently learning front-end/back-end development. I am currently proficien
 I am probably learning C#, SQL, PHP or C++ next year.
 
 # The future of projects
-I am currently working on making a website for myself using the skills learnt this year. Hopefully i can implement some back end changes to the website as well.
-I have no plans at the moment, but i would like to make a website that lists my portfolio and others later this year, the website uploaded here would be a plain template of it though.
+I am currently working on making a website for myself using the skills learnt this year. I will upload the plain template for the website later this month.
 
 # My stats (soon to be implemented)
 
