@@ -10,5 +10,5 @@ I am currently working on many projects, and to show my progress on programming 
 I am currently learning Javascript and other frameworks, projects will soon be posted here.
 
 # My stats
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennygdev&theme=gruvbox&show_icons=true)](https://github.com/bennygoh1/github-readme-stats)
-
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennygdev&theme=vue-dark&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennygdev&layout=compact&theme=vue-dark)]
